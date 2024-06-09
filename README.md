@@ -4,15 +4,6 @@
 
 ###
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-<p align="left">I'm Simon from Denmark <br><br>- 🔭 I’m a student <br>- 📚 I'm currently learning Three.js p>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
