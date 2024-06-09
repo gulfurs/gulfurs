@@ -7,7 +7,8 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=gulfurs&theme=juicyfresh&no-bg=true" />
 
-<img src="https://komarev.com/ghpvc/?username=gulfurs&color=brightgreen" alt="watching_count" />
+[![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=3840208)](https://stackoverflow.com/users/17310473/gulfurs)
+
 <!---
 gulfurs/gulfurs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
